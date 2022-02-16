@@ -1,0 +1,29 @@
+[
+  {
+    "id": "001",
+    "descripcion": "ISR",
+    "retencion": "Si",
+    "traslado": "No",
+    "localOFederal": "Federal",
+    "fechaInicioDeVigencia": "01-01-2022",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "002",
+    "descripcion": "IVA",
+    "retencion": "Si",
+    "traslado": "Si",
+    "localOFederal": "Federal",
+    "fechaInicioDeVigencia": "01-01-2022",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "003",
+    "descripcion": "IEPS",
+    "retencion": "Si",
+    "traslado": "Si",
+    "localOFederal": "Federal",
+    "fechaInicioDeVigencia": "01-01-2022",
+    "fechaFinDeVigencia": ""
+  }
+]
